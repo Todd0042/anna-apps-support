@@ -1,0 +1,21 @@
+name: Feature Request
+description: Suggest an improvement or new feature for Karaoke Rehearsal Lounge or LetsVibe Code Auditor
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: app
+    attributes:
+      label: Which Anna App?
+      options:
+        - Karaoke Rehearsal Lounge
+        - LetsVibe Code Auditor
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Feature Details
+      description: Describe what you'd like to see and how it would help.
+    validations:
+      required: true
