@@ -24,3 +24,7 @@ Public issue tracker and community support hub for **Todd0042's Anna AI OS Appli
 
 ## Privacy
 See [home.todd0042.dev/privacy](https://home.todd0042.dev/privacy) for full details on how microphone audio, uploaded tracks, GitHub OAuth, and Anna host LLM calls are handled.
+
+## License
+
+Copyright (c) 2026 [Todd0042](https://github.com/Todd0042). Source-available under the **[PolyForm Noncommercial License 1.0.0](LICENSE)**: free for personal, hobby, educational, research and nonprofit use. Commercial use (inside a company, in a paid product or service, or for profit) requires a separate license from [Todd0042](https://github.com/Todd0042). Third-party components keep their own licenses.
