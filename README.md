@@ -15,7 +15,7 @@
 Public issue tracker and community support hub for **Todd0042's Anna AI OS Applications**:
 
 - **🎤 Karaoke Rehearsal Lounge (`karaoke-rehearsal-lounge`)** — AI vocal coaching, range calibration, adaptive warmups, smart key fitting, and acoustic take scoring.
-- **🏆 LetsVibe Code Auditor (`letsvibe-code-auditor`)** — Deterministic multi-language static audit (`v11a`), atomic-probe evaluation, copyable AI fix prompts, and isolated Anna Edition leaderboard.
+- **🏆 LetsVibe Code Auditor (`letsvibe-code-auditor`)** — Grades GitHub repos with the same engine as letsvibe.todd0042.dev (v10.4) using your Anna model, copyable AI fix prompts, Reality Check and Idea Finder, and the separate Anna Edition leaderboard.
 
 ## How to Get Help
 1. **Check the Support Center:** [home.todd0042.dev/support](https://home.todd0042.dev/support)
